@@ -1,0 +1,134 @@
+date,vendor,product_type,product_name,pay_method,value,direction
+2025-07-01,MET,monthly_income,salary,card,534837,in
+2025-07-01,MET,monthly_income,fringe_benefit,nice,38793,in
+2025-07-01,Universe,loan,appreciation,card,28682,out
+2025-07-01,OTP,fee,account,card,449,out
+2025-07-01,Melódin,eat_out,food,nice,2415,out
+2025-07-01,Spar,groceries,drink,card,149,out
+2025-07-01,Lidl,groceries,food,card,501,out
+2025-07-01,MÁV,travel,train_ticket,card,3856,out
+2025-07-02,NTS,smoking,swan_filter,card,260,out
+2025-07-02,Cafe Frei,eat_out,coffee,card,750,out
+2025-07-02,Apple,fee,icloud,card,399,out
+2025-07-02,Lidl,groceries,food,card,1045,out
+2025-07-02,Melódin,eat_out,food,nice,1890,out
+2025-07-05,Müller,fun_item,booklet,card,2590,out
+2025-07-05,Müller,fun_item,pen,card,695,out
+2025-07-05,Müller,fun_item,lego,card,1790,out
+2025-07-05,Müller,body_care,sunscreen,card,1800,out
+2025-07-05,Férfiak Játékboltja,fun_item,pocket_knife,cash,6150,out
+2025-07-05,Férfiak Játékboltja,gift,pocket_knife,cash,100,in
+2025-07-05,Krisna,gift,charity,cash,1000,out
+2025-07-05,Pajti,eat_out,coffee,card,1300,out
+2025-07-05,Coop,groceries,alcohol,card,2297,out
+2025-07-05,Coop,groceries,drink,card,480,out
+2025-07-05,Coop,groceries,alcohol,card,1988,out
+2025-07-06,OTP,fee,account,card,225,out
+2025-07-06,Peking Áruház,groceries,drink,card,700,out
+2025-07-07,Művészetek Völgye,fee,festival_ticket,nice,45000,out
+2025-07-07,NTS,smoking,snus,card,1900,out
+2025-07-07,OTP,fee,transfer,card,1200,out
+2025-07-07,MÁV,travel,train_ticket,card,3856,out
+2025-07-08,BKK,travel,line_ticket,card,500,out
+2025-07-09,Melódin,eat_out,food,nice,2485,out
+2025-07-09,Landlord,fee,flat_rent,cash,201235,out
+2025-07-09,Van Graaf,clothing,underwear,card,15990,out
+2025-07-09,Spar,groceries,food,card,1798,out
+2025-07-09,DM,house_care,detergent,card,1375,out
+2025-07-10,Melódin,eat_out,food,nice,1799,out
+2025-07-10,Spar,groceries,food,card,827,out
+2025-07-11,NTS,smoking,tobacco,card,2605,out
+2025-07-11,Melódin,eat_out,food,nice,2799,out
+2025-07-11,MÁV,travel,train_ticket,card,3856,out
+2025-07-11,Nepáli kézműves bolt,clothing,shorts,card,10300,out
+2025-07-11,Lidl,groceries,food,card,1385,out
+2025-07-12,BKK,travel,line_ticket,card,500,out
+2025-07-12,Lipóti Pékség,eat_out,coffee,card,590,out
+2025-07-12,Z’ Lángosdája,eat_out,food,cash,2300,out
+2025-07-12,Euro Sarok,body_care,deodorant,card,1500,out
+2025-07-12,Euro Sarok,groceries,drink,card,1000,out
+2025-07-12,Príma,groceries,alcohol,cash,2020,out
+2025-07-13,Friend,fun_item,birthday_gift,card,5555,out
+2025-07-13,OTP,fee,transfer,card,333,out
+2025-07-13,Bringatanya,eat_out,ice_cream,card,2050,out
+2025-07-13,Caravan Camping,eat_out,alcohol,card,800,out
+2025-07-14,MÁV,travel,train_ticket,card,3856,out
+2025-07-14,BKK,travel,line_ticket,card,500,out
+2025-07-15,NTS,smoking,swan_filter,card,260,out
+2025-07-15,Melódin,eat_out,food,nice,2380,out
+2025-07-15,Nepáli kézműves bolt,clothing,shorts,cash,600,out
+2025-07-15,Könyvmentők,fun_item,book,cash,400,out
+2025-07-15,Kislumen,eat_out,drink,card,1150,out
+2025-07-15,Lidl,groceries,food,card,1378,out
+2025-07-16,Melódin,eat_out,food,nice,2834,out
+2025-07-16,NTS,smoking,tobacco,cash,15000,out
+2025-07-16,Pizza Manufaktúra,eat_out,food,card,3401,out
+2025-07-16,Pizza Manufaktúra,gift,tip,cash,1000,out
+2025-07-17,Melódin,eat_out,food,nice,2287,out
+2025-07-17,NTS,smoking,paper,card,390,out
+2025-07-17,Spar,groceries,food,card,1746,out
+2025-07-17,DM,fun_item,sunglasses,card,3999,out
+2025-07-17,DM,fun_item,glass_case,card,1299,out
+2025-07-17,DM,body_care,razor_heads,card,13185,out
+2025-07-17,DM,body_care,toothbrush,card,1465,out
+2025-07-17,DM,groceries,food,card,769,out
+2025-07-17,MÁV,travel,train_ticket,card,3856,out
+2025-07-17,BKK,travel,line_ticket,card,500,out
+2025-07-18,Melódin,eat_out,food,nice,2385,out
+2025-07-18,Melódin,eat_out,food,card,490,out
+2025-07-19,Rossmann,body_care,wet_wipes,card,479,out
+2025-07-19,Tesco,fun_item,camping_lamp,card,4000,out
+2025-07-19,Müller,body_care,shower_gel,card,1300,out
+2025-07-19,Müller,fun_item,lego,card,1790,out
+2025-07-19,Müller,groceries,food,card,3810,out
+2025-07-19,Spar,groceries,food,cash,12000,out
+2025-07-19,Spar,groceries,alcohol,cash,8000,out
+2025-07-19,Spar,groceries,food,card,848,out
+2025-07-19,Lidl,groceries,alcohol,card,7000,out
+2025-07-19,Lidl,groceries,food,card,6045,out
+2025-07-20,OMV,travel,gasoline,cash,15005,out
+2025-07-20,Művészetek Völgye,fee,camping_rent,cash,15000,out
+2025-07-20,Művészetek Völgye,eat_out,alcohol,card,1350,out
+2025-07-20,Művészetek Völgye,eat_out,alcohol,card,1390,out
+2025-07-21,Művészetek Völgye,eat_out,alcohol,card,1500,out
+2025-07-21,Művészetek Völgye,eat_out,alcohol,card,750,out
+2025-07-21,Művészetek Völgye,eat_out,alcohol,card,2180,out
+2025-07-21,Művészetek Völgye,fee,toilet_use,card,400,out
+2025-07-21,Művészetek Völgye,eat_out,alcohol,card,1490,out
+2025-07-21,Művészetek Völgye,eat_out,food,card,1950,out
+2025-07-22,NTS,smoking,tobacco,card,2620,out
+2025-07-23,Művészetek Völgye,eat_out,food,cash,1500,out
+2025-07-23,Művészetek Völgye,fun_item,ceramic_fairy,card,1600,out
+2025-07-23,Művészetek Völgye,eat_out,alcohol,card,2100,out
+2025-07-24,Művészetek Völgye,eat_out,coffee,card,1600,out
+2025-07-24,Művészetek Völgye,fee,toilet_use,card,300,out
+2025-07-24,Művészetek Völgye,eat_out,alcohol,card,800,out
+2025-07-24,Művészetek Völgye,fee,toilet_use,cash,400,out
+2025-07-24,Művészetek Völgye,eat_out,alcohol,card,800,out
+2025-07-25,Művészetek Völgye,eat_out,drink,card,400,out
+2025-07-25,Művészetek Völgye,eat_out,coffee,card,1000,out
+2025-07-25,Művészetek Völgye,fee,toilet_use,card,400,out
+2025-07-25,Művészetek Völgye,eat_out,food,card,4500,out
+2025-07-25,Művészetek Völgye,eat_out,alcohol,card,1800,out
+2025-07-25,Művészetek Völgye,eat_out,alcohol,card,4260,out
+2025-07-26,Művészetek Völgye,eat_out,food,card,3455,out
+2025-07-26,Művészetek Völgye,eat_out,coffee,cash,600,out
+2025-07-26,Művészetek Völgye,fee,festival_ticket,card,13500,out
+2025-07-26,Művészetek Völgye,groceries,food,cash,657,out
+2025-07-26,NTS,smoking,paper,card,120,out
+2025-07-26,Friend,gift,alcohol,cash,1000,in
+2025-07-26,Művészetek Völgye,eat_out,food,card,4675,out
+2025-07-26,Művészetek Völgye,eat_out,alcohol,card,2350,out
+2025-07-26,Művészetek Völgye,eat_out,alcohol,card,1600,out
+2025-07-27,Művészetek Völgye,eat_out,alcohol,card,1890,out
+2025-07-27,Művészetek Völgye,eat_out,food,cash,2000,out
+2025-07-27,Művészetek Völgye,eat_out,coffee,cash,600,out
+2025-07-27,Művészetek Völgye,fee,camping_rent,cash,6000,out
+2025-07-27,Friend,loan,camping_rent,cash,5000,in
+2025-07-28,MOL Bubi,fee,account,card,1500,out
+2025-07-28,Spotify,fee,account,card,1990,out
+2025-07-28,Művészetek Völgye,fee,recups,card,3000,in
+2025-07-30,Coop,groceries,drink,card,249,out
+2025-07-30,MÁV,travel,train_ticket,card,3856,out
+2025-07-31,Komáromy Pékség,eat_out,bakery,card,873,out
+2025-07-31,BKK,travel,county_pass,card,9450,out
