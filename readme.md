@@ -1,1 +1,3 @@
 Project scope: Note incomes and expenses to track money flow.
+
+Open the PBI report. Select "Home" pane. Click "Transform data". Select a query from the left e.g. "dates". Click "Advanced editor" (top middle). In the second line amend the source path according your file structure. Click "Done". Repeat this for all six queries. Click "Close & Apply" (top left). Click "Refresh" (top middle). Create your own dataset and feed it to the report.
